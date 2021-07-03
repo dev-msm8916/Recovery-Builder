@@ -15,6 +15,7 @@ on:
 
 env:
   MANIFEST: https://gitlab.com/OrangeFox/Manifest.git
+  MANIFEST_BRANCH: fox_9.0
   DEVICE: ido
   DT_LINK: https://github.com/device-msm8916/recovery_device_xiaomi_ido
   DT_PATH: device/xiaomi/ido
