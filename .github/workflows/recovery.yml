@@ -15,9 +15,9 @@ on:
 
 env:
   MANIFEST: https://gitlab.com/OrangeFox/Manifest.git
-  DEVICE: violet
-  DT_LINK: https://github.com/tesla59/ofox_xiaomi_violet
-  DT_PATH: device/xiaomi/violet
+  DEVICE: ido
+  DT_LINK: https://github.com/device-msm8916/recovery_device_xiaomi_ido
+  DT_PATH: device/xiaomi/ido
   TARGET: recoveryimage
   TZ: Asia/Kolkata
 
