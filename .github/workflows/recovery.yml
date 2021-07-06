@@ -14,10 +14,9 @@ on:
     types: [started]
 
 env:
-  MANIFEST: git://github.com/PitchBlackRecoveryProject/manifest_pb.git
-  MANIFEST_BRANCH: android-10.0
+  MANIFEST: https://gitlab.com/OrangeFox/Manifest.git
   DEVICE: ido
-  DT_LINK: https://github.com/PitchBlackRecoveryProject/android_device_xiaomi_ido-pbrp
+  DT_LINK: https://github.com/dev-msm8916/recovery_device_xiaomi_ido
   DT_PATH: device/xiaomi/ido
   TARGET: recoveryimage
   TZ: Asia/Kolkata
